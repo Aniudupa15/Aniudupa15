@@ -1,22 +1,21 @@
 👋 Hello, I'm [Your Name]!
 
-🎓 I'm a [Your Major/Field of Study] student passionate about [Your Interests]. Currently enrolled at [Your University], I'm eager to explore the intersections of technology and [Any specific field or industry].
+🎓 I'm a B-Tech student passionate about Programing. Currently enrolled at Canara Engineering College, I'm eager to explore the intersections of technology and Cyber Security.
 
 💻 My skills include:
-- Programming languages: [List of programming languages you are proficient in, e.g., Python, Java, JavaScript]
-- Web development: [Any web development frameworks or tools you are familiar with]
-- [Other relevant skills, e.g., data analysis, machine learning, etc.]
+- Programming languages: JavaScript,C++,C Programing,JavaScript,HTML.
+- Aurdino,NodeMCU etc.
 
 🚀 I'm currently working on:
-- [Brief description of a project or coursework you're actively involved in]
+- AETHERIAL
 
 🌱 I'm always learning and looking to collaborate on:
-- [Areas of interest or specific projects you're interested in working on]
+- Microcontrollers,IOT Systems etc
 
 📫 You can reach me at:
-- GitHub: [Your GitHub username]
-- LinkedIn: [Your LinkedIn profile]
-- Twitter: [Your Twitter handle]
+- GitHub: Aniudupa15
+- LinkedIn: Anirudha Udupa
+- Instagram: Anirudha Udupa
 
 🔗 Check out my repositories to see what I've been up to!
 
