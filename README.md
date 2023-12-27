@@ -1,4 +1,4 @@
-👋 Hello, I'm [Your Name]!
+👋 Hello, I'm Anirudha Udupa
 
 🎓 I'm a B-Tech student passionate about Programing. Currently enrolled at Canara Engineering College, I'm eager to explore the intersections of technology and Cyber Security.
 
