@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bc033711-d5f4-4065-8a2a-5c8772fd85b3)<h1 align="center">Hi 👋, I'm Anirudha Udupa</h1>
+<h1 align="center">Hi 👋, I'm Anirudha Udupa</h1>
 <h3 align="center">A passionate Application Developer!</h3>
 
 Student at Canara Engineering College |
