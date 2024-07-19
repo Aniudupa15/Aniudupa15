@@ -8,11 +8,11 @@ Student at Canara Engineering College |
 * 🚀  I'm currently working on [AETHERIAL](http://aetherial.netlify.app)
 * 🧠  I'm learning App Development
 * 🤝  I'm open to collaborating on Development Projects
-* ⚡  Fun Fact - I need Tea to code :P
+* ⚡  Fun Fact - I need Tea to code 
 
 
 <a href="https://www.github.com/Aniudupa15" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Anirudpa15?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Aniudupa15?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 ### Badges
