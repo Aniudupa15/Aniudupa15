@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Krishna H Pallan</h1>
-<h3 align="center">A passionate Full-Stack Developer!</h3>
+<h1 align="center">Hi 👋, I'm Anirudha Udupa</h1>
+<h3 align="center">A passionate Application Developer!</h3>
 
-Student at Canara Engineering College | HTML/CSS & Javascript, ReactJS, NodeJS.
+Student at Canara Engineering College |
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [aniudupa15@gmail.com](mailto:aniudupa15@gmail.com)
@@ -29,6 +29,6 @@ src="https://img.shields.io/github/followers/Anirudpa15?logo=github&style=for-th
 
 
 <b><h1>MY SKILL SET:</h1></b>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,flutter,aurdino,react,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,flutter,Arduino,react,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
 <hr>
