@@ -30,6 +30,6 @@ src="https://img.shields.io/github/followers/Aniudupa15?logo=github&style=for-th
 
 
 <b><h1>MY SKILL SET:</h1></b>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,flutter,react,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,flutter,Aurdino,react,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
 <hr>
