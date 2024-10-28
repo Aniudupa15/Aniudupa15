@@ -6,7 +6,7 @@ Student at Canara Engineering College |
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [Here](https://aniudupa.vercel.app)
 * ✉️  You can contact me at [aniudupa15@gmail.com](mailto:aniudupa15@gmail.com)
-* 🚀  I'm currently working on [Judica]
+* 🚀  I'm currently working on Judica
 * 🧠  I'm learning App Development
 * 🤝  I'm open to collaborating on Development Projects
 * ⚡  Fun Fact - I need Tea to code 
