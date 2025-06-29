@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anirudha Udupa</h1>
 <h3 align="center">A passionate Flutter Developer!</h3>
 
-Student at Canara Engineering College |
-
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [Here](https://aniudupa.vercel.app)
 * ✉️  You can contact me at [aniudupa15@gmail.com](mailto:aniudupa15@gmail.com)
